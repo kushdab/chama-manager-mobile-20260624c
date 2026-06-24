@@ -1,0 +1,13 @@
+{
+  "name": "chama-manager-mobile-20260624c",
+  "version": "1.0.0",
+  "description": "Chama investment group management logic",
+  "main": "Main.ts",
+  "scripts": {
+    "start": "ts-node Main.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
